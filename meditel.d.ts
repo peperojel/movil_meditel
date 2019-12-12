@@ -1,0 +1,1 @@
+declare module 'websocket-adonis-meditel';
